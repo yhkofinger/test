@@ -18,8 +18,8 @@
         ]]></script>
     </head>
     <body>
-    	<w2:anchor outerDiv="false" style="width: 100px;height: 23px;" id="">
-    		<xf:label><![CDATA[Insert Text1]]></xf:label>
+    	<w2:anchor outerDiv="false" style="width:100px;height:23px;" id="">
+    		<xf:label><![CDATA[바꿔4]]></xf:label>
     	</w2:anchor>
     	<w2:calendar footerDiv="false" id="" style="position:static; top:185px; left:48px; width:100px; height:100px; "></w2:calendar>
     </body>
