@@ -17,5 +17,9 @@
         <script type="text/javascript"><![CDATA[
         ]]></script>
     </head>
-    <body></body>
+    <body>
+    	<w2:anchor outerDiv="false" style="width: 100px;height: 23px;" id="">
+    		<xf:label><![CDATA[Insert Text]]></xf:label>
+    	</w2:anchor>
+    </body>
 </html>
